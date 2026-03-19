@@ -1,96 +1,77 @@
-<div align="center">
+Hello! I'm Arth Kathiriya
+ 
+## Front End Developer
 
-# Hey, I'm Arth Kathiriya 👋
+Self-taught developer from Gujarat, learning deeply across the stack and building projects that make a difference.
 
-**Front-End Developer · Problem Solver · Always Building**
 
-[![GitHub followers](https://img.shields.io/github/followers/arth512?style=flat-square&color=0e75b6&label=Followers)](https://github.com/arth512)
-[![Profile Views](https://komarev.com/ghpvc/?username=arth512&style=flat-square&color=0e75b6)](https://github.com/arth512)
+<details>
+  <summary>🌐 Socials</summary>
+  <br>
 
-</div>
 
----
+  <div align="left">
 
-## 🙋 About Me
+  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvaldalwadi1907@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-dalwadi-892144306/)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/afdhruval)
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DalwadiaDhruval)
+  [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/dhruval1907)
 
-- 🎓 Computer Science student based in **India**
-- 💻 Building projects with **HTML, CSS, JavaScript, C, Python**
-- 🔧 Currently working on **Google Apps Script automation** for real-world problems
-- 🌱 Learning **React** and modern web development
-- ⚡ Fun fact: My bio used to be `E = mc²` — now it's actual code
+  </div>
+</details>
 
----
+<details>
+  <summary>💻 Tech Stack</summary>
+  <br>
 
-## 🛠 Tech Stack
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![SCSS](https://img.shields.io/badge/SCSS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<div align="center">
+</details>
+<details>
+  <summary>📊 GitHub Stats</summary>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  <br>
 
-</div>
+  <!-- GitHub Stats Section -->
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=dhruval1907&theme=dark&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruval1907&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+      </td>
+    </tr>
+  </table>
+       
 
----
 
-## 🚀 Featured Projects
+</details>
 
-### 📋 Leave Automation System
-> Google Sheets + Google Apps Script automation for managing student leave requests  
-> Auto-sends Google Meet links, approval/rejection emails, and calendar events
 
-**Tech:** Google Apps Script · Gmail API · Google Calendar API · Google Sheets  
-🔗 [View Project](https://github.com/arth512)
 
----
 
-### 🎨 CSS Final Task — Responsive Website
-> A fully responsive front-end project built with pure HTML & CSS
+### ✍️ Random Dev Quote
 
-**Tech:** HTML · CSS · Responsive Design  
-🔗 [View Repo](https://github.com/arth512/css_finaltask)
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 💻 C Language Practicals
-> Collection of C programs covering arrays, functions, pointers, file I/O and more
 
-**Tech:** C  
-🔗 [View Repo](https://github.com/arth512/c_Language_practical-1)
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Arth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arth512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arth512&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arth512&theme=tokyonight&hide_border=true)
 
-</div>
 
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthkathiriya465@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arth512)
-
-</div>
-
----
-
-<div align="center">
-
-*"First solve the problem. Then write the code."*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
