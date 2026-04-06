@@ -1,170 +1,56 @@
-<div align="center">
 
-# 🎓 Student Portal
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Welcome+to+Student+Portal!;Built+with+React+%2B+Node.js;Powered+by+MongoDB;Fast+%7C+Secure+%7C+Modern" alt="Typing SVG" />
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-student.rwskill.in-6C63FF?style=for-the-badge)](https://student.rwskill.in)
-[![Made with React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io)
-
-<br/>
-
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO?color=6C63FF&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO?color=FF6584&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?color=FFD700&style=flat-square)
-
+<div align=center>
+  <img src="svg/title.png">
 </div>
 
----
-
-## ✨ What is this?
-
-> A **modern full-stack Student Portal** where students can view their profiles, academic details, results, and more — all in one place. Built with a clean React frontend and a robust Node.js + MongoDB backend.
-
----
-
-## 🚀 Features
-
-| Feature | Status |
-|--------|--------|
-| 🔐 JWT Authentication | ✅ Done |
-| 👤 Student Profile Page | ✅ Done |
-| 📊 Academic Dashboard | ✅ Done |
-| 🔒 Protected API Routes | ✅ Done |
-| 📱 Responsive Design | ✅ Done |
-| 🌙 Dark Mode | 🚧 Coming Soon |
+>##  Wounded Matrix !!
+#### • Like to get surrounded by screens ,(~~had only one i3-3rd gen~~)
+#### • Trying to build new technology single-handedly ,(~~fails 1000+ times~~ ,~~still failing~~)
+#### • Love to understand the most complex Architecture and algorithms ,(~~can't understand my own life~~)
 
 ---
 
-## 🛠️ Tech Stack
+<div align=center>
 
-```
-Frontend          Backend           Database         Auth
-──────────        ──────────        ──────────       ──────────
-⚛️  React          🟢 Node.js         🍃 MongoDB        🔑 JWT
-🎨 CSS/Tailwind   ⚡ Express.js      🔗 Mongoose       🛡️ bcrypt
-📦 Axios          🌐 REST API        ☁️  Atlas
-```
+  <a href="https://github.com/Chintan-patel-24">
+    <p align="center">
+
+<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=pulse&hide_border=true"/>
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 student-portal/
-├── 📂 frontend/
-│   ├── 📂 src/
-│   │   ├── 📂 components/
-│   │   ├── 📂 pages/
-│   │   ├── 📂 hooks/
-│   │   └── 📄 App.jsx
-│   └── 📄 package.json
-│
-├── 📂 backend/
-│   ├── 📂 routes/
-│   ├── 📂 models/
-│   ├── 📂 controllers/
-│   ├── 📂 middleware/
-│   ├── 📄 server.js
-│   └── 📄 .env
-│
-└── 📄 README.md
-```
+<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&hide_border=true"/>
 
 ---
 
-## ⚡ Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-```
-
-### 2. Setup Backend
-
-```bash
-cd backend
-npm install
-```
-
-Create a `.env` file:
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_key
-```
-
-```bash
-npm start
-```
-
-### 3. Setup Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-### 4. Open in browser
-
-```
-http://localhost:5173
-```
+<img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chintanpatel24&theme=github_dark&hide_border=true"/>
+<img heigth="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chintanpatel24&theme=github_dark&border_color=white"/>
 
 ---
 
-## 🔐 Environment Variables
-
-| Variable | Description |
-|----------|-------------|
-| `MONGO_URI` | Your MongoDB Atlas connection string |
-| `JWT_SECRET` | Secret key for signing JWT tokens |
-| `PORT` | Port for the backend server (default: 5000) |
+<img src="https://gitlyy.vercel.app/api/languages?username=Chintanpatel24&theme=dark&hide_border=true"/>
+<br>
+<img src="https://gitlyy.vercel.app/api/contribution?username=Chintanpatel24&layout=compact&hide_border=true"/>
+<br>
+<img src="https://gitlyy.vercel.app/api/commits?username=CHintanpatel24&layout=compact&hide_border=true"/>
 
 ---
 
-## 📸 Screenshots
-
-> 🖼️ *(Add screenshots here)*
+<img src="https://gitlyy.vercel.app/api/pr-stats?username=CHintanpatel24&hide_border=true"/>
 
 ---
 
-## 🤝 Contributing
+<img src="https://gitlyy.vercel.app/api/commits?username=Chintanpatel24&hide_border=true"/>
 
-Contributions are welcome! Feel free to:
+</a>
 
-- 🐛 Report bugs
-- 💡 Suggest features
-- 🔧 Submit pull requests
 
 ---
 
-## 📬 Contact
+<div align=center>
 
-<div align="center">
-
-Made with ❤️ by **Artho**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://student.rwskill.in)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like this project, give it a star!** ⭐
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPO)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chintanpatel24&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
 </div>
